@@ -5,11 +5,10 @@ the model weights can be download from https://1drv.ms/u/s!AnceeURrhWJF8UzrGsIGr
 
 Download it and rename it as "last.h5", write the following in your terminal:
 
-```python```
+```
 cd ~/lenet5-fruit
-
 mkdir logs && cd logs
-```python```
+```
 
 Put "last.h5" in folder logs
 
